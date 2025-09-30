@@ -5,4 +5,4 @@ elements.testblock01 = {
     category: "solids",         // your custom category
     state: "solid",
     density: 1000
-};
+}
