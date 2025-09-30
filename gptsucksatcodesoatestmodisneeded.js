@@ -3,5 +3,6 @@
         behavior: behaviors.WALL,
         category: "solids",
         state: "solid",
-        density: 1000
+        density: 1000,
+        temp: 30
     }
